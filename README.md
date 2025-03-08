@@ -9,3 +9,9 @@ There were a few reasons for why I decided to start developing this library
 4. Other Code Language developers might want to bind these to other languages so making this completely seperate from Cython was a must.
 
 
+## TODOS
+Library is incomplete and is not ready 
+- [ ] Finish Listeners and `curl_uv_socket_t` handles
+- [ ] Set Default CurlM options
+- [ ] CMakeLists
+- [ ] tools for helping with Python Setuptools
